@@ -10,7 +10,7 @@ rm stats$ODATE.csv
 echo user,0:00,1:00,2:00,3:00,4:00,5:00,6:00,7:00,8:00,9:00,10:00,11:00,12:00,13:00,14:00,15:00,16:00,17:00,18:00,19:00,20:00,21:00,22:00,23:00,TOTAL >> stats$ODATE.csv
 
 #Generate Userlist out of anybody who's been logged
-USERS=`grep \#[0-9] ari4.log|grep : |cut -d ' ' -f 4|cut -d '#'  -f1|sort -u`
+USERS=`grep \#[0-9] ari4.log|grep $ODATE|grep : |cut -d ' ' -f 4|cut -d '#'  -f1|sort -u`
 
 #Generate Temporary Log with no Messages
 grep : ari4.log |grep -v Statistics|grep at|grep $ODATE|cut -d "#" -f1 > tmpchatlog
