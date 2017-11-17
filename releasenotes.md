@@ -1,3 +1,6 @@
+2.2
+add python wrapper
+
 2.1
 add user stats script
 
