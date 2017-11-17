@@ -1,7 +1,7 @@
 #This script is basically the same as the other one, except it will be used to enter manual dates while the automation isn't there yet.
 #USE THIS FORMAT
 #2017-10-29
-ODATE=2017-11-15
+ODATE=2017-11-16
 
 #Remove Outdated Stats Log
 rm dailystats/stats$ODATE.csv
