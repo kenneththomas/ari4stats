@@ -1,3 +1,3 @@
-:pump: 12
-:lettalhm: 37
-:vom: 7
+:pump: 26
+:lettalhm: 55
+:vom: 14
