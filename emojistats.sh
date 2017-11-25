@@ -1,6 +1,6 @@
 #emoji stats
 
-emojis=":pump: :lettalhm: :vom:"
+emojis=":pump: :lettalhm: :vom: :grimacing:"
 
 for emoji in $emojis
 do

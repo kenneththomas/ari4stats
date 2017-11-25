@@ -1,7 +1,8 @@
 #This script is basically the same as the other one, except it will be used to enter manual dates while the automation isn't there yet.
-#USE THIS FORMAT
-#2017-10-29
-ODATE=2017-11-24
+echo "please enter a date in this format: 2017-10-29: "
+read ODATE
+
+echo Doing a oneoff for $ODATE
 
 #Remove Outdated Stats Log
 rm dailystats/stats$ODATE.csv
