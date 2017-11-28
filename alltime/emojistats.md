@@ -1,4 +1,11 @@
-:pump: 19
-:lettalhm: 93
-:vom: 19
-:grimacing: 0
+:pump: 21
+:lettalhm: 96
+:vom: 22
+😬 95
+:wow: 15
+:dam: 10
+:ai: 2
+:rie: 2
+:lavren: 1
+:eheu: 8
+:breez: 4

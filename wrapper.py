@@ -19,3 +19,23 @@ os.system("bash userstats.sh")
 
 print('running all time script')
 os.system("bash alltime.sh")
+
+print('running emoji script')
+#i have a wrapper running a wrapper. i have no idea why. fix.
+os.system("bash emojiwrapper.sh")
+
+border = '**************************'
+
+print(border)
+print('main processing complete')
+print(border)
+time.sleep(1)
+
+print('Amount of users logged: ')
+os.system("ls userstats|wc -l")
+
+print('Amount of days logged: ')
+os.system("ls dailystats|wc -l")
+
+print('Main log file size: ')
+os.system("ls -l Daily/ari4.log --block-size=KB|cut -d \" \" -f5")

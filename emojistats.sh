@@ -1,6 +1,6 @@
 #emoji stats
 
-emojis=":pump: :lettalhm: :vom: :grimacing:"
+emojis=":pump: :lettalhm: :vom: 😬 :wow: :dam: :ai: :rie: :lavren: :eheu: :breez:"
 
 for emoji in $emojis
 do
