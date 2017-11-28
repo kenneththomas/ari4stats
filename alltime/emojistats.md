@@ -1,4 +1,4 @@
-:pump: 15
-:lettalhm: 57
-:vom: 14
+:pump: 19
+:lettalhm: 93
+:vom: 19
 :grimacing: 0
