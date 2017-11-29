@@ -19,8 +19,7 @@ os.system("bash userstats.sh")
 
 print('running all time scripts')
 os.system("bash alltime.sh")
-#we use popen for message by user cuz i dont want to see this
-os.popen("python3.5 total.py|tee alltime/msgbyuser.txt")
+os.system("python3.5 total.py|tee alltime/msgbyuser.txt")
 
 print('running emoji script')
 #i have a wrapper running a wrapper. i have no idea why. fix.
