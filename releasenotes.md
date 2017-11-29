@@ -1,3 +1,6 @@
+2.5
+user messages by day script
+
 2.4
 improve emoji script
 improve wrapper
