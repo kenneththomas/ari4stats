@@ -1,20 +1,20 @@
 :pump: 32
 
-:lettalhm: 175
+:lettalhm: 184
 
 :vom: 38
 
-😬 164
+😬 168
 
 :wow: 33
 
-:dam: 15
+:dam: 16
 
 :ai: 6
 
 :rie: 5
 
-:lavren: 4
+:lavren: 6
 
 :eheu: 14
 
