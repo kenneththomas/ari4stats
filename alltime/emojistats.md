@@ -1,22 +1,22 @@
-:pump: 32
+:pump: 38
 
-:lettalhm: 201
+:lettalhm: 220
 
-:vom: 46
+:vom: 54
 
-😬 186
+😬 217
 
-:wow: 39
+:wow: 51
 
-:dam: 20
+:dam: 22
 
-:ai: 6
+:ai: 8
 
-:rie: 5
+:rie: 6
 
-:lavren: 6
+:lavren: 7
 
-:eheu: 16
+:eheu: 19
 
-:breez: 11
+:breez: 15
 
