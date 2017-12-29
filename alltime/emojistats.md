@@ -1,12 +1,12 @@
 :pump: 2
 
-:lettalhm: 52
+:lettalhm: 61
 
-:vom: 9
+:vom: 15
 
-😬 45
+😬 52
 
-:wow: 10
+:wow: 11
 
 :dam: 6
 
