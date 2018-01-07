@@ -38,8 +38,8 @@ time.sleep(1)
 print('Amount of users logged: ')
 os.system("ls userstats|wc -l")
 
-print('Amount of days logged: ')
-os.system("ls dailystats|wc -l")
+#find mean
+os.system("python3.5 scripts/mean.py")
 
 print('Main log file size: ')
 os.system("ls -l Daily/ari4.log --block-size=KB|cut -d \" \" -f5")
