@@ -4,7 +4,7 @@ emojis=":pump: :lettalhm: :vom: 😬 :wow: :dam: :ai: :rie: :lavren: :eheu: :bre
 
 for emoji in $emojis
 do
-emojisearch=`grep -c $emoji Daily/ari4.log`
+emojisearch=`grep -c $emoji tmp/consolidated.log`
 echo $emoji $emojisearch
 echo
 done

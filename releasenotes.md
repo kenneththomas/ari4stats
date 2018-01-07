@@ -1,3 +1,6 @@
+2.6
+consolidated.sh consolidates all logs to run stuff like emoji script gonna try to move less vital scripts to new script folder
+
 2.5
 user messages by day script
 

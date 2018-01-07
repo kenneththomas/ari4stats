@@ -21,6 +21,9 @@ print('running all time scripts')
 os.system("bash alltime.sh")
 os.system("python3.5 total.py|tee alltime/msgbyuser.txt")
 
+#consolidate logs
+os.system("bash scripts/consolidate.sh")
+
 print('running emoji script')
 #i have a wrapper running a wrapper. i have no idea why. fix.
 os.system("bash emojiwrapper.sh")
