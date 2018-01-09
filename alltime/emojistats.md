@@ -1,14 +1,14 @@
 :pump: 61
 
-:lettalhm: 447
+:lettalhm: 452
 
-:vom: 119
+:vom: 124
 
-😬 454
+😬 457
 
 :wow: 93
 
-:dam: 55
+:dam: 57
 
 :ai: 12
 
